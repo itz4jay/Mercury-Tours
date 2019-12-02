@@ -1,0 +1,8 @@
+[INFO ] 2019-11-11 22:11:36.011 [main] SeleniumTestBase - WebDriver initialization complete for :Chrome
+[INFO ] 2019-11-11 22:11:45.526 [main] SeleniumTestBase - WebDriver tear down is complete
+[INFO ] 2019-11-14 21:16:14.709 [main] SeleniumTestBase - WebDriver initialization complete for :Chrome
+[INFO ] 2019-11-14 21:16:26.856 [main] SeleniumTestBase - WebDriver tear down is complete
+[INFO ] 2019-11-14 22:23:46.981 [main] DriverFactory - Creating local webdriver instance for driver type -> Chrome
+[INFO ] 2019-11-14 22:23:55.102 [main] SeleniumTestBase - WebDriver initialization complete for :Chrome
+[INFO ] 2019-11-14 22:24:04.705 [main] SeleniumTestBase - WebDriver tear down is complete
+[INFO ] 2019-11-14 22:34:04.324 [main] DriverFactory - Creating remote webdriver instance for driver type -> Chrome

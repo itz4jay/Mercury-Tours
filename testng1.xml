@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteMercury">
+
+	<listeners>
+		<listener
+			class-name="com.newtours.extentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test thread-count="5" name="TestMercury">
+		<parameter name="browser-type" value="Chrome" />
+		<classes>
+			<class name="com.newtours.test.HomePageTest" />
+		</classes>
+	</test> <!-- TestMercury -->
+</suite> <!-- SuiteMercury -->
